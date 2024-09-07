@@ -1,1 +1,1 @@
-# python_postgreSQL
+Code to connect and query PostgreSQL database
